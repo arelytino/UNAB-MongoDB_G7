@@ -21,5 +21,3 @@ db.feria_logros_7grado.updateOne(
 db.feria_logros_7grado.deleteOne({ nombre: "Alumno 3" });
 
 
-3. Dale clic al botón verde: Confirma los cambios...
-4. Commit: Corrijo nombre a Tech y agrego código CRUD
