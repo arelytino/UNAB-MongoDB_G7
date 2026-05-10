@@ -10,6 +10,6 @@ c. *Registros*: 3 documentos de alumnos 7° grado
 d. *CRUD*: CREATE, READ, UPDATE, DELETE ejecutados
 
 ## Integrantes G7
-1. Arely Tino 1] - [tl0479022012]
+1.[Arely Tino 1] - [tl0479022012]
 2. [Marlon 2] - [fp1033022017]  
-  [Sofia lue 3] - [t0479022013] 
+3. [Sofia lue 3] - [t0479022013] 
