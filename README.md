@@ -12,4 +12,4 @@ d. *CRUD*: CREATE, READ, UPDATE, DELETE ejecutados
 ## Integrantes G7
 1. Arely Tino 1] - [tl0479022012]
 2. [Marlon 2] - [fp1033022017]  
-  [Sofia lue 3] - [to479022013] 
+  [Sofia lue 3] - [t0479022013] 
